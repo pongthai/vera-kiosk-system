@@ -4,4 +4,5 @@ __pycache__/
 *.log
 storage/
 client/venv/
-server/venv/server/secrets/google-credentials.json
+server/venv/
+server/secrets/google-credentials.json
