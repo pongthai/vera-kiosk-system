@@ -1,0 +1,6 @@
+SpeechRecognition
+pygame
+requests
+sounddevice
+webrtcvad
+numpy
